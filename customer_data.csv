@@ -1,0 +1,99 @@
+Purchase History
+Name,Product Name,Price,Date
+Alice,iPhone 13 Pro,999,2022-03-14
+Alice,Kindle Paperwhite,129,2022-03-14
+Alice,MacBook Pro,1999,2022-03-12
+Bob,PlayStation 5,499,2022-03-13
+Bob,Call of Duty: Modern Warfare,59,2022-03-13
+Bob,Nike Air Zoom Pegasus 38,119,2022-03-11
+Bob,Fitbit Charge 5,179,2022-03-09
+Bob,Apple Watch Series 7,399,2022-03-08
+Charlie,Samsung Galaxy S22 Ultra,1199,2022-03-13
+Charlie,Samsung Galaxy Watch 4,249,2022-03-13
+Charlie,Samsung Galaxy Buds Pro,199,2022-03-10
+Charlie,Samsung Galaxy Tab S7,649,2022-03-08
+David,Amazon Echo Dot (3rd Gen),34,2022-03-12
+David,Amazon Basics 6-Sheet High-Security Micro-Cut Paper and Credit Card Home Office Shredder,49,2022-03-10
+David,Sony WH-1000XM4 Wireless Headphones,278,2022-03-09
+David,Samsung TU8000 65-inch Smart TV,899,2022-03-07
+Emily,Anker PowerCore 10000 Portable Charger,25,2022-03-11
+Emily,Logitech G502 HERO Gaming Mouse,79,2022-03-09
+Emily,Apple AirPods Pro,249,2022-03-08
+Emily,HP Pavilion 15 Laptop,849,2022-03-06
+John Doe,iPhone 12 Pro,Electronics,999,2022-03-15
+John Doe,Fitbit Charge 5,Fitness Tracker,149,2022-03-13
+Jane Smith,Kindle Paperwhite,Electronics,129,2022-03-10
+Jane Smith,The Great Gatsby,Books,10,2022-03-07
+Mark Johnson,Canon EOS R5,Camera,3999,2022-03-03
+Mark Johnson,DJI Mavic Air 2S,Drone,999,2022-02-28
+Sarah Lee,Macbook Air 13",Laptops,999,2022-02-25
+Sarah Lee,Bose QuietComfort 35 II,Headphones,299,2022-02-20
+Michael Brown,Playstation 5,Video Games,499,2022-02-18
+Michael Brown,Spider-Man: No Way Home,Blu-ray,19,2022-02-16
+
+
+Browsing History
+Name,URL,Date
+Alice,www.amazon.com,2022-03-14
+Alice,www.apple.com,2022-03-13
+Alice,www.bestbuy.com,2022-03-12
+Alice,www.nytimes.com,2022-03-10
+Bob,www.reddit.com,2022-03-13
+Bob,www.twitch.tv,2022-03-11
+Bob,www.netflix.com,2022-03-10
+Bob,www.youtube.com,2022-03-08
+Charlie,www.samsung.com,2022-03-13
+Charlie,www.amazon.com,2022-03-12
+Charlie,www.netflix.com,2022-03-09
+Charlie,www.nytimes.com,2022-03-07
+David,www.amazon.com,2022-03-12
+David,www.reddit.com,2022-03-11
+David,www.nytimes.com,2022-03-10
+David,www.espn.com,2022-03-07
+Emily,www.amazon.com,2022-03-11
+Emily,www.nytimes.com,2022-03-09
+Emily,www.netflix.com,2022-03-08
+Emily,www.youtube.com,2022-03-06
+John Doe,Amazon,Shopping,2022-03-15
+John Doe,YouTube,Entertainment,2022-03-13
+Jane Smith,Google,Search Engine,2022-03-10
+Jane Smith,Facebook,Social Media,2022-03-07
+Mark Johnson,Newegg,Shopping,2022-03-03
+Mark Johnson,TechRadar,Technology News,2022-02-28
+Sarah Lee,Apple,Technology,2022-02-25
+Sarah Lee,Netflix,Entertainment,2022-02-20
+Michael Brown,IGN,Video Games,2022-02-18
+Michael Brown,IMDb,Movies,2022-02-16
+
+
+Search History
+Name,Search Query,Date
+Alice,iPhone 13 Pro,2022-03-14
+Alice,Kindle Paperwhite,2022-03-14
+Alice,MacBook Pro,2022-03-12
+Bob,PlayStation 5,2022-03-13
+Bob,Call of Duty: Modern Warfare,2022-03-13
+Bob,Nike Air Zoom Pegasus 38,2022-03-11
+Bob,Fitbit Charge 5,202
+John Doe,iPhone 12 Pro,Electronics,2022-03-15
+John Doe,Fitness Tracker,Fitness Tracker,2022-03-13
+Jane Smith,Kindle Paperwhite,Electronics,2022-03-10
+Jane Smith,The Great Gatsby,Books,2022-03-07
+Mark Johnson,Canon EOS R5,Camera,2022-03-03
+Mark Johnson,DJI Mavic Air 2S,Drone,2022-02-28
+Sarah Lee,Macbook Air 13",Laptops,2022-02-25
+Sarah Lee,Bose QuietComfort 35 II,Headphones,2022-02-20
+Michael Brown,Playstation 5,Video Games,2022-02-18
+Michael Brown,Spider-Man: No Way Home,Blu-ray,2022-02-16
+
+customer_name,age,gender,income,location
+John Doe,28,Male,80000,New York
+Jane Smith,42,Female,120000,California
+Mark Johnson,35,Male,100000,Texas
+Sarah Lee,25,Female,60000,Florida
+Michael Brown,31,Male,90000,Illinois
+
+customer_name,device_type,device_brand,os_version,date
+John Doe,Smartphone,Apple,iOS 15,2022-03-15
+John Doe,Smartwatch,Apple,watchOS 8.2,2022-03-13
+Jane Smith,Tablet,Amazon,Fire OS 7,2022
